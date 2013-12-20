@@ -1,0 +1,4 @@
+kernel/mediatek/platform/mt6572/kernel/drivers/power/pmic_mt6323.ko
+kernel/mediatek/platform/mt6572/kernel/drivers/power/upmu_common.ko
+kernel/mediatek/platform/mt6572/kernel/drivers/power/battery_meter_hal.ko
+kernel/mediatek/platform/mt6572/kernel/drivers/power/charging_hw_pmic.ko

@@ -1,0 +1,12 @@
+Build steps:
+
+1. Download Android 4.2.2 source code from google
+
+2. Modify buildGPL.sh, replace the Your_Toolchain_PATH with your tool path in android code.
+for example: android/prebuilts/gcc/linux-x86/arm/arm-linux-androidYour_Toolchain_PATHeabi-4.6/bin
+
+3. Run the script under your shell
+./buildGPL.sh
+
+Thanks! 
+
